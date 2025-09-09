@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/font/fa-regular-400.ttf</file>
+        <file>Resources/font/fontawesome-webfont.ttf</file>
+        <file>Resources/font/iconfont.ttf</file>
+        <file>Resources/font/pe-icon-set-weather.ttf</file>
+        <file>Resources/image/add-nomal.png</file>
+    </qresource>
+</RCC>

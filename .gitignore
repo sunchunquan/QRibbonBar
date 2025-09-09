@@ -1,0 +1,7 @@
+bin32
+bin64
+build
+3rdParty
+Resources
+CustomRibbonBar.cpp
+CustomRibbonBar.h
